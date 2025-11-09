@@ -1,0 +1,14 @@
+# Ollama dependencies
+strands-agents[ollama]
+langchain-ollama
+
+# Bedrock dependencies
+langchain-aws
+
+# OpenAI dependencies
+strands-agents[openai]
+langchain-openai
+
+# Shared dependencies
+langgraph
+langchain
