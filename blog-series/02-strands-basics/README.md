@@ -180,9 +180,4 @@ If using Bedrock and getting auth errors:
 
 ## What's Next?
 
-Check out the blog post for detailed explanations: [Building Your First Agent with Strands](https://janobarnard.com/building-first-agent-strands/)
-
-Next in the series:
-- **Post 3**: Deploying to Amazon Bedrock AgentCore
-- **Post 4**: Multi-Agent Architectures
-- **Post 5**: RAG with Knowledge Bases
+Check out the [blog post](https://janobarnard.blog/building-your-first-agent-with-strands/) for detailed explanations of all these concepts.

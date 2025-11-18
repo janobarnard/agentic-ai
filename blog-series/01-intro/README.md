@@ -5,8 +5,8 @@ Simple conversational agents demonstrating the agent loop using Strands and Lang
 ## Cost Overview
 
 - **Ollama**: Free (runs locally on your device)
-- **Amazon Bedrock**: ~$0.0004 per request with Claude Haiku 4.5 (pay-as-you-go)
-- **OpenAI**: ~$0.00005 per request with GPT-4o-mini (requires credits)
+- **Amazon Bedrock**: ~$0.003 per request with Claude Haiku 4.5 (pay-as-you-go)
+- **OpenAI**: ~$0.0003 per request with GPT-4o-mini (requires credits)
 
 Running these simple examples will cost less than $0.01 total for cloud providers.
 
